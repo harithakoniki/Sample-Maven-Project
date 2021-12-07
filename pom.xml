@@ -43,7 +43,7 @@
       <uniqueVersion>false</uniqueVersion>
       <id>mavenproject</id>
       <name>mavenproject-1</name>
-      <url>>http://localhost:8080/mavenproject-1</url>
+      <url>>http://localhost:8085/mavenproject-1</url>
       <layout>default</layout>
     </repository>
 
